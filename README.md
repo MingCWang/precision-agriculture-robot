@@ -20,7 +20,16 @@ python app.py
 ### web interface
 navigate to http://172.20.111.126:6969/
 
+## Demo
 
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/0e36eb6e-2e52-41ca-af7e-78529c9f4e37" width="400" />
+</div>
+    
+<p align="center">
+  <img width="300" alt="demo3" src="https://github.com/user-attachments/assets/bd5a2794-b8d1-4892-9d10-2752df16b9b1">
+</p>
 
 ## Links
 FAQ: 
