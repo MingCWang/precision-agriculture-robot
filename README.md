@@ -36,7 +36,6 @@ FAQ:
 - [AI Detector](https://github.com/campusrover/labnotebook2/blob/main/docs/faq/ai/AI_Detector.md)
 - [External Actuator Control With ROS Publisher](https://github.com/campusrover/labnotebook2/blob/main/docs/faq/hardware/external_actuator_control.md)
 
-Video:
-https://brandeis.zoom.us/rec/share/L7KHHXQx5YMipCGCVavkNSaTUPy47De38HoTem0eBAwPRykOmei3kHTvwU6wjcf-.MogkEBxoQQngRBTE?startTime=1734127778000
+[Video](https://brandeis.zoom.us/rec/share/L7KHHXQx5YMipCGCVavkNSaTUPy47De38HoTem0eBAwPRykOmei3kHTvwU6wjcf-.MogkEBxoQQngRBTE?startTime=1734127778000)
 
 [Full Report](https://github.com/campusrover/labnotebook2/blob/main/docs/reports/2024/AgriculturalRobot.md)
