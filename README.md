@@ -37,6 +37,6 @@ FAQ:
 - [External Actuator Control With ROS Publisher](https://github.com/campusrover/labnotebook2/blob/main/docs/faq/hardware/external_actuator_control.md)
 
 Video:
-https://drive.google.com/file/d/1jsaf8pf4Yxk0OIvKQS2b_4zPKwqGcgWK/view?usp=sharing
+https://brandeis.zoom.us/rec/share/L7KHHXQx5YMipCGCVavkNSaTUPy47De38HoTem0eBAwPRykOmei3kHTvwU6wjcf-.MogkEBxoQQngRBTE?startTime=1734127778000
 
 [Full Report](https://github.com/campusrover/labnotebook2/blob/main/docs/reports/2024/AgriculturalRobot.md)
