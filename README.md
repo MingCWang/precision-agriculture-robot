@@ -1,6 +1,6 @@
 # precision-agriculture-robot
 
-This research project focuses on the development of an autonomous Turtlebot platform equipped with a precision water-dispensing system.
+This research project focuses on the intersection of autonomous robotics and software engineering. My teammate and I developed a simple agriculture robot clone that performs plant detection and spraying, accepts user command through a web interface.
 [Full Report](https://github.com/campusrover/labnotebook2/blob/main/docs/reports/2024/AgriculturalRobot.md)
 
 ## Usage
