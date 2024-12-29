@@ -13,7 +13,7 @@ demo: [video link](https://drive.google.com/file/d/1jsaf8pf4Yxk0OIvKQS2b_4zPKwqG
 - [Challenges](#challenges)
     - [Flask Server](#flask-server)
     - [Plant Detection](#plant-detection)
-    - [Water Sprayer Signaling](#water-sprayer-signaling-system)
+    - [Water Sprayer Signaling (hardware)](#water-sprayer-signaling-system)
     - [Autonomous Navigation](#autonomous-navigation-and-spraying)
 - [ROS Structure](#ros-structure)
 - [Project Story](#story-of-the-project)
