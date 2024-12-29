@@ -1,6 +1,9 @@
-[leaf.pdf](https://github.com/user-attachments/files/18268394/leaf.pdf)
+<p>
+    <img src="https://github.com/user-attachments/assets/34b4854d-1413-4309-8340-aa3a96cf46d3"/ >
+</p>
 
 demo: [video link](https://drive.google.com/file/d/1jsaf8pf4Yxk0OIvKQS2b_4zPKwqGcgWK/view?pli=1)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -405,7 +408,10 @@ There are three main components that goes into making the sprayer remote control
 #### 1. arduino uno
    
    The arduino is responsible for receiving messages from rasberry pi and controlling the relay.
-   ![alt](./AgriculturalRobot_Pictures/arduino.jpeg)
+
+<p align="center">
+    <img src="./AgriculturalRobot_Pictures/arduino.jpeg">
+</p>
 
 #### 2. rasberry pi
    
@@ -424,7 +430,9 @@ There are 6 ports on the relay. Each of them except NC is required for our setup
 - NO: The load should be OFF by default and turn ON when the relay is activated.
 - NC: Since we want the relay to be OFF by default, this port is not necessary.
 
-![alt](./AgriculturalRobot_Pictures/relay.jpeg)
+<p align="center">
+    <img src="./AgriculturalRobot_Pictures/relay.jpeg">
+</p>
 
 ### Soldering
 
@@ -432,7 +440,9 @@ We also learned soldering in part of this modification.
 
 To control the sprayer with the relay, we need to intercept the power source of the sprayer. Since the sprayer is powered by serial connection batteries, we can just cut the wires and reconnect both ends to the relay COM and NO ports. When the relay is on, the connection will be established, completing the circuit loop and trigger the sprayer.
 
-![alt](./AgriculturalRobot_Pictures/solder.jpeg)
+<p align="center">
+    <img src="./AgriculturalRobot_Pictures/solder.jpeg">
+</p>
 
 Below is a visual representation of what's happening to the circuit loop.
 
