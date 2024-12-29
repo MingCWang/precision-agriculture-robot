@@ -1,10 +1,4 @@
----
-title: Agricultural Robotics System
-author: Ming Shih Wang, Jiahao Li
-date: Dec-2024
-status: new
-type: report
----
+[leaf.pdf](https://github.com/user-attachments/files/18268394/leaf.pdf)
 
 demo: [video link](https://drive.google.com/file/d/1jsaf8pf4Yxk0OIvKQS2b_4zPKwqGcgWK/view?pli=1)
 ## Table of Contents
