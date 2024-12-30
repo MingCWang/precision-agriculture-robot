@@ -56,6 +56,15 @@ The objective of this project is to explore the integration of robotics, artific
 
 This project serves as a proof of concept for innovative approaches to automated plant care, with broader implications for agricultural and environmental sustainability.
 
+## Technology
+- `ROS`
+- `rasberrypi`
+- `arduino uno`
+- `python`
+- `fastAPI`
+- `react.js`
+- `burnt wires from soldering :(`
+
 # Challenges
 
 ## Flask Server and React Frontend Integration for Plant Care Robot
